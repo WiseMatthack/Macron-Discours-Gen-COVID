@@ -7,6 +7,6 @@ with open("path-to-macron") as f:
 # création du modèle
 text_model = markovify.Text(text)
 
-# on affiche 20 phrases (vous pouvez changer ce nombre comme bon vus semble)
+# on affiche 20 phrases (vous pouvez changer ce nombre comme bon vous semble)
 for i in range(20):
     print(text_model.make_sentence())
