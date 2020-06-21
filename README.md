@@ -1,6 +1,6 @@
 # Nous Sommes en joe sces quiéyeière ér ér ér
 # (Générateur de discours de Macron)
-Un générateur de discours sur le COVID-19 de notre cher Gamer Gamer Président français
+Un générateur de discours sur le COVID-19 de notre cher Président français
 
 Ce script vous permet de générer un discours d'Emmanuel Macron sur la crise du COVID-19 en utilisant le machine-learning.
 Une démo sur Google Colab est disponible [ici](https://colab.research.google.com/drive/1w99rllZmx6xSTnZvGT7K8LGdztO-3_tY?usp=sharing).
